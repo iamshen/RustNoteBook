@@ -1,8 +1,8 @@
 # Rust Note Book
 
-> # 读 Rust语言圣经(Rust教程 Rust Course) 的笔记
+!> # 读 Rust语言圣经(Rust教程 Rust Course) 的笔记
 
-`https://course.rs/`
+[https://course.rs/](https://course.rs/)
 
 ## 安装
 
