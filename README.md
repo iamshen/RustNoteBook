@@ -1,0 +1,2 @@
+# RustNoteBook
+learning rust note 
